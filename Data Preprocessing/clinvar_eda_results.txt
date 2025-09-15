@@ -1,0 +1,18 @@
+ClinVar data matrix size: 6149022 rows x 8 columns
+Missing values per feature (sorted):
+PositionVCF: 100850
+ReferenceAlleleVCF: 100850
+AlternateAlleleVCF: 100850
+Chromosome: 6810
+Start: 6810
+ClinicalSignificance: 635
+ReviewStatus: 635
+Name: 0
+
+Dropped columns: []
+
+Number of features removed during missing value analysis: 0
+
+
+
+Cleaned ClinVar data matrix size: 0 rows x 8 columns
